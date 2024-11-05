@@ -1,4 +1,8 @@
-## Hi there 👋
+## Welcome to my Hub 👋
+
+- I'm currently studying Computer Science and am loving it!
+- Currently my studies are taking me through the world of C# with WPF, Web clients and distributed networks.
+- I have enjoyed learning about architectural software design and will try to better myself in upholding a high standard.
 
 <!--
 **Nessumsa/Nessumsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
