@@ -1,12 +1,12 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Courier&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome to my Hub" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Courier&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+Hub;" />
   </a>
 </h1>
 
 <h2 align="center"> About Me </h2>
 
-<h3 align="center">A curious software developer from Denmark/h3>
+<h3 align="center">A curious software developer from Denmark</h3>
 
 <div align="center">
  
